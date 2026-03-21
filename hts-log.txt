@@ -1,0 +1,34 @@
+HTTrack3.49-2 launched on Sat, 21 Mar 2026 09:37:50 at https://www.ihelpcs.com +*.ihelpcs.com/* +www.ihelpcs.com/*
+(httrack https://www.ihelpcs.com -O ./ +*.ihelpcs.com/* -r4 -s0 +www.ihelpcs.com/* -p7 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:38:06	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/t (from https://www.ihelpcs.com/)
+09:38:06	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/o (from https://www.ihelpcs.com/)
+09:38:11	Error: 	"Bad Request" (400) at link https://www.ihelpcs.com/window.location.href (from https://www.ihelpcs.com/)
+09:38:11	Warning: 	Moved Permanently for https://www.ihelpcs.com/api/
+09:38:11	Warning: 	File has moved from https://www.ihelpcs.com/api/ to https://www.ihelpcs.com/api
+09:38:12	Warning: 	Moved Permanently for https://www.ihelpcs.com/envelope/
+09:38:12	Warning: 	File has moved from https://www.ihelpcs.com/envelope/ to https://www.ihelpcs.com/envelope
+09:38:13	Error: 	"Bad Request" (400) at link https://www.ihelpcs.com/decodeURIComponent(e (from https://www.ihelpcs.com/)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/api (from https://www.ihelpcs.com/api/)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/envelope (from https://www.ihelpcs.com/envelope/)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/t (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/o (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/window.location.href (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:33	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/decodeURIComponent(e (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:33	Warning: 	HTML file (701528 bytes) retransferred due to lack of cache: https://www.ihelpcs.com/contact_us
+09:38:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.ihelpcs.com/contact_us (from https://www.ihelpcs.com/)
+09:38:34	Warning: 	HTML file (701528 bytes) retransferred due to lack of cache: https://www.ihelpcs.com/contact_us
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/feed.xml (from https://www.ihelpcs.com/)
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/robots.txt (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/sitemap.xml (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/post/feed.xml (from https://www.ihelpcs.com/post/practical-tips-to-help-avoid-online-scams)
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/profile/tim/sitemap.xml (from https://www.ihelpcs.com/profile/tim/profile)
+09:38:34	Error: 	"Not Found" (404) at link https://www.ihelpcs.com/profile/tim/feed.xml (from https://www.ihelpcs.com/profile/tim/profile)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 38 links scanned, 19 files written (11911040 bytes overall) [5218790 bytes received at 115973 bytes/sec], 15109796 bytes transferred using HTTP compression in 35 files, ratio 24%
+(16 errors, 7 warnings, 0 messages)
